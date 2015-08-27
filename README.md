@@ -35,6 +35,7 @@ Upon successful completion of ART 249, the student should be able to:
 The general framework for this course is determined by the creative web design process for a singular web design project, consisting of defining, drafting, designing, and developing one web site over the course of the semester.
 
 There are five phases to the course:
+
 1. **The Definition Phase** (i.e. defining the project)
 1. **The Drafting Phase** (i.e. drafting conceptual plans such as a site maps, wireframes, etc).
 1. **The Design Phase** (i.e. designing the user interface (UI) via design mockups)
@@ -53,9 +54,10 @@ There are five phases to the course:
 ## Texts
 There are no required texts for this course. Readings will be supplied by the instructor on a week to week basis, in either paper handout form or online.
 Recommended, but not required texts:
-- **Designing With Web Standards, 3rd Edition.**
-  > by Jeffrey Zeldman and Ethan MArcotte.    
-  > New Riders, 2009, 9780321616951.
+
+- **Designing With Web Standards, 3rd Edition.**  
+     by Jeffrey Zeldman and Ethan MArcotte.  
+     New Riders, 2009, 9780321616951.
 
 ## Materials
 All students are required to have hosting space to post their assignments, internship documentation, and ultimately their final presentation. Students are required to purchase a hosting plan with a third party hosting provider. Past students have purchased hosting plans from hosting providers such as Bluehost and GoDaddy (these are just a few of many hosting providers available). Plans should include ample disk space (ie. more than 2GB or unlimited), support for CGI, PHP, and MySQL, multiple
@@ -122,15 +124,15 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
 
 
 ## Week-by-Week
-- Weeks 1-2
+- **Weeks 1-2**
   + Intro to the Course, Defining the Project
-- Weeks 2-3
+- **Weeks 2-3**
   + Planning the Project
-- Weeks 3-9
+- **Weeks 3-9**
   + UI Designs (Designing)
-- Weeks 10-15
+- **Weeks 10-15**
   + Web Development (Coding)
-- Weeks 16
+- **Weeks 16**
   + Final Presentation at the Final Face-to-face Class Meeting
 
 
@@ -143,5 +145,4 @@ This semester my office hours are:
 
 ## Emergency Contact
 In the case of an emergency or if you are unable to get a hold of the instructor and have already tried contacting Chris via phone (808-734-9707) and email ([epilande@hawaii.edu](mailto:epilande@hawaii.edu)), you can next contact the Arts & Humanties department chair, Sharon Rowe, by phone (808-734-9282) or email ([srowe@hawaii.edu](mailto:srowe@hawaii.edu)).
-
 
