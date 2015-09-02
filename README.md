@@ -87,18 +87,18 @@ Grading is based on projects and class participation during critiques and online
 Five major components of the class are worth 50-100 points each, with a total of 500 points for the course grade. The 500 Points for the final course grade can be broken down as follows:
 
 - **Phase 1: Definition Phase** - 50 Points
-  + Project Brief – Due: Monday, August 31, 2015 11:59PM
+  + Project Brief – *Due: Monday, August 31, 2015 11:59PM*
 - **Phase 2: Draft Phase** - 50 Points
-  + Conceptual Plans – Due: Monday, September 07, 2015 11:59PM
+  + Conceptual Plans – *Due: Monday, September 07, 2015 11:59PM*
 - **Phase 3: Design Phase** - 100 Points
-  + Round 1 Designs (40 Points) – Working Critique: Tuesday, September 22, 2015
-  + Round 2 Designs (30 Points) – Working Critique: Tuesday, October 06, 2015
-  + Round 3 Designs (30 Points) – Critique: Tuesday, October 20, 2015
+  + Round 1 Designs (40 Points) – *Working Critique: Tuesday, September 22, 2015*
+  + Round 2 Designs (30 Points) – *Working Critique: Tuesday, October 06, 2015*
+  + Round 3 Designs (30 Points) – *Critique: Tuesday, October 20, 2015*
 - **Phase 4: Development Phase** - 100 Points
-  + Site Draft #1 (50 Points) – Due: Tuesday, November 17, 2015
-  + Site Draft #2 (50 Points) – Due: Tuesday, December 08, 2015
+  + Site Draft #1 (50 Points) – *Due: Tuesday, November 17, 2015*
+  + Site Draft #2 (50 Points) – *Due: Tuesday, December 08, 2015*
 - **Phase 5: Due Diligence & Final Project/Presentation** - 100 Points
-  + Final Site + Portfolio Entry, posted on course web page – Critique: Tuesday, December 15, 2015
+  + Final Site + Portfolio Entry, posted on course web page – *Critique: Tuesday, December 15, 2015*
 - **Class Participation** - 100 Points
   + Participation online via Laulima and at the critiques
 
@@ -126,27 +126,34 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
 
 ## Schedule
 #### Week 1 - Defining the Project
-  + Project Brief – Due: Monday, August 31, 2015 11:59PM
+- **Project Brief** – *Due: Monday, August 31, 2015 11:59PM*
+
 #### Week 2 - Planning the Project
-  + Site map – Due: Monday, September 07, 2015 11:59PM
-  + Wireframes – Due: Monday, September 07, 2015 11:59PM
+- **Site map** – *Due: Monday, September 07, 2015 11:59PM*
+- **Wireframes** – *Due: Monday, September 07, 2015 11:59PM*
+
 #### Week 3-5 - UI Designs
-  + Round 1 Designs
-  + Working critique – Tuesday, September 22, 2015
+- **Round 1 Designs**
+- **Working critique** – *Tuesday, September 22, 2015*
+
 #### Week 5-7 - UI Designs
-  + Round 2 Designs
-  + Working critique – Tuesday, October 06, 2015
+- **Round 2 Designs**
+- **Working critique** – *Tuesday, October 06, 2015*
+
 #### Week 7-9 - UI Designs
-  + Round 3 Designs
-  + Critique – Tuesday, October 20, 2015
+- **Round 3 Designs**
+- **Critique** – *Tuesday, October 20, 2015*
+
 #### Week 10-13 - Web Development
-  + Site Draft #1 – Due: Tuesday, November 17, 2015
+- **Site Draft #1** – *Due: Tuesday, November 17, 2015*
+
 #### Week 13-16 - Web Development
-  + Site Draft #2 – Due: Tuesday, December 08, 2015
+- **Site Draft #2** – *Due: Tuesday, December 08, 2015*
+
 #### Week 17 - Final Presentation
-  + Final Site
-  + Portfolio Entry
-  + Critique – Tuesday, December 15, 2015
+- **Final Site**
+- **Portfolio Entry**
+- **Critique** – *Tuesday, December 15, 2015*
 
 
 ## Week-by-Week
