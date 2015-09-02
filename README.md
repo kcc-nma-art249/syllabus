@@ -16,6 +16,7 @@ ART 249 integrates the foundation level visual interface design skills introduce
 1. [Special Student Services](#special-student-services)
 1. [Student Conduct Code](#student-conduct-code)
 1. [This Class is a "Safe Zone"](#this-class-is-a-safe-zone)
+1. [Schedule](#schedule)
 1. [Week-by-Week](#week-by-week)
 1. [Office Hours](#office-hours)
 1. [Emergency Contact](#emergency-contact)
@@ -86,18 +87,18 @@ Grading is based on projects and class participation during critiques and online
 Five major components of the class are worth 50-100 points each, with a total of 500 points for the course grade. The 500 Points for the final course grade can be broken down as follows:
 
 - **Phase 1: Definition Phase** - 50 Points
-  + Project Brief
+  + Project Brief – Due: Monday, August 31, 2015 11:59PM
 - **Phase 2: Draft Phase** - 50 Points
-  + Conceptual Plans
+  + Conceptual Plans – Due: Monday, September 07, 2015 11:59PM
 - **Phase 3: Design Phase** - 100 Points
-  + Round 1 Designs (40 Points)
-  + Round 2 Designs (30 Points)
-  + Round 3 Designs (30 Points)
+  + Round 1 Designs (40 Points) – Working Critique: Tuesday, September 22, 2015
+  + Round 2 Designs (30 Points) – Working Critique: Tuesday, October 06, 2015
+  + Round 3 Designs (30 Points) – Critique: Tuesday, October 20, 2015
 - **Phase 4: Development Phase** - 100 Points
-  + Site Draft #1 (50 Points)
-  + Site Draft #2 (50 Points)
+  + Site Draft #1 (50 Points) – Due: Tuesday, November 17, 2015
+  + Site Draft #2 (50 Points) – Due: Tuesday, December 08, 2015
 - **Phase 5: Due Diligence & Final Project/Presentation** - 100 Points
-  + Final Site + Portfolio Entry, posted on course web page
+  + Final Site + Portfolio Entry, posted on course web page – Critique: Tuesday, December 15, 2015
 - **Class Participation** - 100 Points
   + Participation online via Laulima and at the critiques
 
@@ -106,7 +107,7 @@ Dividing the total 500 points by 5 will yield a more legible final course letter
 - **B** (80–89)
 - **C** (70–79)
 - **D** (60–69)
-- **F** (59-0)
+- **F** (59–0)
 
 
 ## Special Student Services
@@ -123,6 +124,31 @@ In all campus environments, Disruptive Behavior will not be tolerated. This mean
 Discriminatory or rude comments of any kind, particularly regarding gender, ethnicity, sexual orientation, or religion, will not be tolerated.
 
 
+## Schedule
+#### Week 1 - Defining the Project
+  + Project Brief – Due: Monday, August 31, 2015 11:59PM
+#### Week 2 - Planning the Project
+  + Site map – Due: Monday, September 07, 2015 11:59PM
+  + Wireframes – Due: Monday, September 07, 2015 11:59PM
+#### Week 3-5 - UI Designs
+  + Round 1 Designs
+  + Working critique – Tuesday, September 22, 2015
+#### Week 5-7 - UI Designs
+  + Round 2 Designs
+  + Working critique – Tuesday, October 06, 2015
+#### Week 7-9 - UI Designs
+  + Round 3 Designs
+  + Critique – Tuesday, October 20, 2015
+#### Week 10-13 - Web Development
+  + Site Draft #1 – Due: Tuesday, November 17, 2015
+#### Week 13-16 - Web Development
+  + Site Draft #2 – Due: Tuesday, December 08, 2015
+#### Week 17 - Final Presentation
+  + Final Site
+  + Portfolio Entry
+  + Critique – Tuesday, December 15, 2015
+
+
 ## Week-by-Week
 - **Weeks 1-2**
   + Intro to the Course, Defining the Project
@@ -130,9 +156,9 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
   + Planning the Project
 - **Weeks 3-9**
   + UI Designs (Designing)
-- **Weeks 10-15**
+- **Weeks 10-16**
   + Web Development (Coding)
-- **Weeks 16**
+- **Weeks 17**
   + Final Presentation at the Final Face-to-face Class Meeting
 
 
