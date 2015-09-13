@@ -3,6 +3,10 @@
 
 ART 249 integrates the foundation level visual interface design skills introduced in ART 229 Interface Design I with the technical interface programming skills introduced in ART 128 Interface Programming I. Students go through the full creative design process for interaction design of analyzing, planning, designing, coding, testing, and launching a custom designed web standard compliant HTML/CSS static web site for a proposed client. Students document their findings through client documentation and defend their design decisions via presentations and critiques.
 
+*6 hours lecture/lab per week*
+
+**Prerequisite(s):** *ART 128 with a grade of "C" or higher; ART 229 with a grade of "C" or higher; satisfactory completion of the Interface Design II entrance portfolio review or acceptance into a NMA AS specialization.*
+
 
 ## Table of Contents
 1. [Course Objectives & Competencies](#course-objectives--competencies)
