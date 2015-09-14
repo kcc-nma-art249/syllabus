@@ -1,4 +1,17 @@
-# Interface Design 2
+# Art 249 - Syllabus
+**Course:** Interface Design 2
+
+**Term:** Fall 2015, **CRN:** 32123
+
+**Instructor:** Emmanuel Pilande
+
+**Email:** epilande@hawaii.edu
+
+**Class Hours:** Tuesday & Thursday, 800am – 1030am, Koa 103
+
+**Office Hours:** Tuesday & Thursday, 730am – 800am, Koa 103
+
+## Interface Design 2
 **The Full Web Design Process**
 
 ART 249 integrates the foundation level visual interface design skills introduced in ART 229 Interface Design I with the technical interface programming skills introduced in ART 128 Interface Programming I. Students go through the full creative design process for interaction design of analyzing, planning, designing, coding, testing, and launching a custom designed web standard compliant HTML/CSS static web site for a proposed client. Students document their findings through client documentation and defend their design decisions via presentations and critiques.
