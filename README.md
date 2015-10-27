@@ -112,8 +112,8 @@ Five major components of the class are worth 50-100 points each, with a total of
   + Round 2 Designs (30 Points) – *Working Critique: Tuesday, October 06, 2015*
   + Round 3 Designs (30 Points) – *Critique: Tuesday, October 20, 2015*
 - **Phase 4: Development Phase** - 100 Points
-  + Site Draft #1 (50 Points) – *Due: Tuesday, November 17, 2015*
-  + Site Draft #2 (50 Points) – *Due: Tuesday, December 08, 2015*
+  + Site Draft #1 (50 Points) – *Due: Tuesday, November 10, 2015*
+  + Site Draft #2 (50 Points) – *Due: Tuesday, November 24, 2015*
 - **Phase 5: Due Diligence & Final Project/Presentation** - 100 Points
   + Final Site + Portfolio Entry, posted on course web page – *Critique: Tuesday, December 15, 2015*
 - **Class Participation** - 100 Points
@@ -161,11 +161,11 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
 - **Round 3 Designs**
 - **Critique** – *Tuesday, October 20, 2015*
 
-#### Week 10-13 - Web Development
-- **Site Draft #1** – *Due: Tuesday, November 17, 2015*
+#### Week 10-12 - Web Development
+- **Site Draft #1** – *Due: Tuesday, November 10, 2015*
 
-#### Week 13-16 - Web Development
-- **Site Draft #2** – *Due: Tuesday, December 08, 2015*
+#### Week 12-14 - Web Development
+- **Site Draft #2** – *Due: Tuesday, November 24, 2015*
 
 #### Week 17 - Final Presentation
 - **Final Site**
